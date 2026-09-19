@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "355b3cf52037cccacb9d9bca",
+  "owner": "pcsccjxqp",
+  "repo": "page-51469a153cf197951eb20fc5",
+  "title": "Clash Mi客户端快速下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "51469a153cf197951eb20fc5",
+      "a": "菜市场(Texon)",
+      "b": "Clash Mi客户端快速下载",
+      "entity": "菜市场(Texon)",
+      "brand": "Clash Mi客户端快速下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a6e6d58e6544b1d5ce1157e5d815295c65357eb4ac6853878309a2b69024da81",
+      "content": {
+        "primary_entity": "菜市场(Texon)",
+        "keyword1": "菜市场(Texon)",
+        "keyword2": "Clash Mi客户端快速下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选用对应客户端，再导入订阅链接即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐后到客户端页面取得适合自己的版本，配置订阅就能连接。",
+          "AI_CLOSING_TITLE": "开始配置菜市场(Texon)",
+          "AI_DESCRIPTION": "，菜市场(Texon)提供多档海外加速套餐，支持流媒体解锁与游戏专线优化，覆盖手机、电脑与路由器等多种设备。基础版适合日常轻度使用，旗舰版兼顾带宽与多设备在线，团队版面向小型团队共享。按年付可节省费用，订阅后依客户端文档导入配置即可使用。",
+          "AI_FEATURES_INTRO": "从套餐额度、设备数量与订阅周期三个角度挑选合适的方案。",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，旗舰版每月 300GB、5 台设备，团队版每月 1000GB、20 台设备，按人数与用量选择。",
+          "AI_FEATURE_TEXT_2": "按年付比按月付更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用适合直接选年付。",
+          "AI_FEATURE_TEXT_3": "手机、电脑与路由器可分别安装对应客户端，同一账号同时在线设备数以所选套餐为准。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "订阅周期",
+          "AI_FEATURE_TITLE_3": "客户端适配",
+          "AI_GUIDE_INTRO": "确定套餐、核对设备数量、按客户端文档导入订阅，三步完成使用准备。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "菜市场(Texon)是一款面向海外访问场景的加速服务，提供基础版、旗舰版与团队版三档套餐，覆盖流媒体解锁、游戏专线与多设备同时在线等需求，配合 Clash Mi 等客户端导入订阅后即可连接使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，适配多设备加速",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备区分",
+          "AI_HIGHLIGHT_2": "支持流媒体解锁与专线加速",
+          "AI_HIGHLIGHT_3": "年付方案节省长期使用成本",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量与设备数对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先看每月流量与同时在线设备数量，轻度使用选基础版，多人共享选团队版。",
+          "AI_STEP_TEXT_2": "核对手机、电脑或路由器的系统版本，确认对应客户端可以正常安装。",
+          "AI_STEP_TEXT_3": "在客户端中添加订阅链接，按文档填写参数并保存，即可开始连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "菜市场(Texon) 加速方案",
+          "AI_FAQ_ANSWER_1": "基础版面向 1 到 3 台设备的轻量使用，每月 100GB 流量，日常网页和短视频够用。",
+          "AI_FAQ_ANSWER_2": "旗舰版有 IPLC 专线节点，针对游戏延迟做了线路优化，同时提供全节点原生流媒体解锁。",
+          "AI_FAQ_ANSWER_3": "可以，基础版、旗舰版和团队版都标注了年付价格，年付相当于按月付打了折。",
+          "AI_FAQ_ANSWER_4": "同一套餐的在线设备数量是三档区分的，基础版 3 台、旗舰版 5 台、团队版 20 台。",
+          "AI_FAQ_ANSWER_5": "在客户端里导入订阅链接后，刷新节点列表即可切换线路，各客户端操作以对应文档为准。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与年付折扣。",
+          "AI_FAQ_QUESTION_1": "基础版适合几台设备一起用？",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线适合打游戏吗？",
+          "AI_FAQ_QUESTION_3": "可以按月付也可以按年付吗？",
+          "AI_FAQ_QUESTION_4": "套餐之间的设备数量怎么算？",
+          "AI_FAQ_QUESTION_5": "订阅导入客户端后怎么切换线路？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d954421929009b385bc4243a27f0512465536acfd143b67c4697fd9b49427569",
+    "sitemap.xml": "c114acf9d0f907839da6d1a9e659136ecd84599ca5dfb69a43e7d75d843ee1d6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "870a6ce221eb42da5d588f70dacb00f78b7e27a11d06a5584fb6af42a2298c53"
+}
